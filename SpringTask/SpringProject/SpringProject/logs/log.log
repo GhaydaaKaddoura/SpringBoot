@@ -1,0 +1,232 @@
+18:36:23.929 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 8520 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+18:36:23.934 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+18:36:26.457 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+18:36:26.457 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:36:26.457 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+18:36:26.577 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:36:26.701 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+18:36:26.845 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field clientDao in com.example.SpringProject.Services.ClientServices required a bean of type 'com.example.SpringProject.dao.ClientDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.SpringProject.dao.ClientDao' in your configuration.
+
+18:37:05.217 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 10520 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+18:37:05.217 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+18:37:07.134 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+18:37:07.134 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+18:37:07.134 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+18:37:07.247 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+18:37:07.327 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+18:37:07.397 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field clientDao in com.example.SpringProject.Services.ClientServices required a bean of type 'com.example.SpringProject.dao.ClientDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.SpringProject.dao.ClientDao' in your configuration.
+
+20:07:45.731 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 22360 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:07:45.780 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:07:47.736 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:07:47.736 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:07:47.736 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:07:47.856 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:07:47.922 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+20:07:47.986 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field clientDao in com.example.SpringProject.Services.ClientServices required a bean of type 'com.example.SpringProject.dao.ClientDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.SpringProject.dao.ClientDao' in your configuration.
+
+20:10:04.374 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 21228 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:10:04.374 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:10:06.273 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:10:06.273 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:10:06.273 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:10:06.428 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:10:06.495 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+20:10:06.571 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field clientDao in com.example.SpringProject.Services.ClientServices required a bean of type 'com.example.SpringProject.dao.ClientDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.SpringProject.dao.ClientDao' in your configuration.
+
+20:12:31.944 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 6968 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:12:31.944 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:12:33.880 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:12:33.880 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:12:33.880 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:12:34.007 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:12:34.076 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+20:12:34.133 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field clientDao in com.example.SpringProject.Services.ClientServices required a bean of type 'com.example.SpringProject.dao.ClientDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.SpringProject.dao.ClientDao' in your configuration.
+
+20:13:25.852 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 12264 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:13:25.852 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:13:27.747 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:13:27.747 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:13:27.747 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:13:27.872 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:13:27.967 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+20:13:28.042 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field productDao in com.example.SpringProject.Services.ProductServices required a bean of type 'com.example.SpringProject.dao.ProductDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.SpringProject.dao.ProductDao' in your configuration.
+
+20:22:14.386 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 10584 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:22:14.401 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:22:15.979 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:22:15.979 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:22:15.979 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:22:16.057 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:22:16.151 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+20:22:16.182 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field productDao in com.example.SpringProject.Services.ProductServices required a bean of type 'com.example.SpringProject.dao.ProductDao' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.SpringProject.dao.ProductDao' in your configuration.
+
+20:22:54.283 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 13972 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:22:54.283 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:22:55.892 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:22:55.892 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:22:55.892 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:22:56.001 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:22:56.688 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+20:22:56.735 [main] INFO  c.e.S.SpringProjectApplication - Started SpringProjectApplication in 3.2 seconds (JVM running for 6.141)
+20:22:56.735 [main] ERROR c.e.S.SpringProjectApplication - Message logged at ERROR level
+20:22:56.735 [main] WARN  c.e.S.SpringProjectApplication - Message logged at WARN level
+20:22:56.735 [main] INFO  c.e.S.SpringProjectApplication - Message logged at INFO level
+20:23:40.350 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 912 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:23:40.366 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:23:41.865 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:23:41.865 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:23:41.865 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:23:41.943 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:23:42.506 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+20:23:42.537 [main] INFO  c.e.S.SpringProjectApplication - Started SpringProjectApplication in 2.931 seconds (JVM running for 5.766)
+20:23:42.553 [main] ERROR c.e.S.SpringProjectApplication - Message logged at ERROR level
+20:23:42.553 [main] WARN  c.e.S.SpringProjectApplication - Message logged at WARN level
+20:23:42.553 [main] INFO  c.e.S.SpringProjectApplication - Message logged at INFO level
+20:28:16.937 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 22424 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:28:16.937 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:28:18.499 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:28:18.499 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:28:18.499 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:28:18.577 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:28:19.108 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+20:28:19.139 [main] INFO  c.e.S.SpringProjectApplication - Started SpringProjectApplication in 2.985 seconds (JVM running for 5.908)
+20:28:51.902 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 7220 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:28:51.918 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:28:53.496 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:28:53.496 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:28:53.496 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:28:53.574 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:28:54.136 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+20:28:54.168 [main] INFO  c.e.S.SpringProjectApplication - Started SpringProjectApplication in 3.071 seconds (JVM running for 5.923)
+20:29:32.869 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 19604 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:29:32.869 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:29:34.399 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:29:34.399 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:29:34.399 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:29:34.493 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:29:35.056 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+20:29:35.102 [main] INFO  c.e.S.SpringProjectApplication - Started SpringProjectApplication in 2.973 seconds (JVM running for 5.879)
+20:29:35.102 [main] ERROR c.e.S.SpringProjectApplication - Message logged at ERROR level
+20:29:35.102 [main] WARN  c.e.S.SpringProjectApplication - Message logged at WARN level
+20:29:35.102 [main] INFO  c.e.S.SpringProjectApplication - Message logged at INFO level
+20:30:13.965 [main] INFO  c.e.S.SpringProjectApplication - Starting SpringProjectApplication using Java 11.0.1 on DESKTOP-A5JF7Q0 with PID 5148 (C:\Users\Areej\Downloads\SpringProject\target\classes started by Areej in C:\Users\Areej\Downloads\SpringProject)
+20:30:13.965 [main] INFO  c.e.S.SpringProjectApplication - No active profile set, falling back to default profiles: default
+20:30:15.449 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+20:30:15.449 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+20:30:15.449 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.55]
+20:30:15.542 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+20:30:16.136 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+20:30:16.167 [main] INFO  c.e.S.SpringProjectApplication - Started SpringProjectApplication in 2.98 seconds (JVM running for 5.905)
